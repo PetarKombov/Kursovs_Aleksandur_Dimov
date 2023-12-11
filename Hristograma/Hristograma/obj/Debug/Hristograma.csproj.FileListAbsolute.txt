@@ -1,0 +1,8 @@
+C:\Users\kombo\OneDrive\Работен плот\Moi Proekti\Hristograma\Hristograma\bin\Debug\Hristograma.exe.config
+C:\Users\kombo\OneDrive\Работен плот\Moi Proekti\Hristograma\Hristograma\bin\Debug\Hristograma.exe
+C:\Users\kombo\OneDrive\Работен плот\Moi Proekti\Hristograma\Hristograma\bin\Debug\Hristograma.pdb
+C:\Users\kombo\OneDrive\Работен плот\Moi Proekti\Hristograma\Hristograma\obj\Debug\Hristograma.csproj.AssemblyReference.cache
+C:\Users\kombo\OneDrive\Работен плот\Moi Proekti\Hristograma\Hristograma\obj\Debug\Hristograma.csproj.SuggestedBindingRedirects.cache
+C:\Users\kombo\OneDrive\Работен плот\Moi Proekti\Hristograma\Hristograma\obj\Debug\Hristograma.csproj.CoreCompileInputs.cache
+C:\Users\kombo\OneDrive\Работен плот\Moi Proekti\Hristograma\Hristograma\obj\Debug\Hristograma.exe
+C:\Users\kombo\OneDrive\Работен плот\Moi Proekti\Hristograma\Hristograma\obj\Debug\Hristograma.pdb
